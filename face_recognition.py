@@ -97,7 +97,7 @@ while True:
                     (255, 255, 255),
                     2,
                 )
-                email_alert("CRIMINAL ALERT", name, "sivasainadhg@gmail.com")
+                email_alert("CRIMINAL ALERT", name, "lofflin04@gmail.com")
     # markAttendance(name)
 
     cv2.imshow("Webcam", img)
